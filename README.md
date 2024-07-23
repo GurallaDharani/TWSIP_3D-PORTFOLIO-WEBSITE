@@ -17,9 +17,12 @@ This is a 3D portfolio website created using HTML, CSS, and JavaScript. It showc
 
 https://github.com/user-attachments/assets/7823d1e7-acb8-4c0d-b142-52f96f882c3d
 
-Technologies Used
+TECHNOLOGIES USED:
+
 •	HTML5: For structuring the content.
+
 •	CSS3: For styling and creating 3D animations.
+
 •	JavaScript: For adding interactivity and controlling animations.
 
 
@@ -32,3 +35,6 @@ Technologies Used
 ![(3)](https://github.com/user-attachments/assets/26ea3380-184a-4f93-894a-0c1d1959170e)
 
 ![(4)](https://github.com/user-attachments/assets/317ba46d-c204-4b0b-87c5-2765093bea35)
+
+CONCLUSION:
+Adjust the placeholders (yourusername, your-email@example.com, your-linkedin-profile, your-twitter-profile) and add any additional details specific to your project.
