@@ -37,4 +37,5 @@ TECHNOLOGIES USED:
 ![(4)](https://github.com/user-attachments/assets/317ba46d-c204-4b0b-87c5-2765093bea35)
 
 CONCLUSION:
+
 Adjust the placeholders (yourusername, your-email@example.com, your-linkedin-profile, your-twitter-profile) and add any additional details specific to your project.
